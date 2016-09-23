@@ -3,7 +3,7 @@ docker-symfony
 
 Modified branch from : https://github.com/eko/docker-symfony
 
-[![Build Status](https://secure.travis-ci.org/eko/docker-symfony.png?branch=master)](http://travis-ci.org/eko/docker-symfony)
+[![Build Status](https://travis-ci.org/Kalyse/docker-symfony.svg?branch=master)](https://travis-ci.org/Kalyse/docker-symfony)
 
 
 Just a little Docker POC in order to have a complete stack for running Symfony into Docker containers using docker-compose tool.
